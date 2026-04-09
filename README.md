@@ -75,7 +75,3 @@ gcc your_program.c *.o -o your_program
 - This implementation is for educational/research purposes
 - Not intended for production cryptographic use without thorough security review
 - Timing attacks and other side-channel vulnerabilities have not been addressed
-
-## License
-
-[Add appropriate license information]
